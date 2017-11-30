@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ensikyo</title>
+    <link>https://www.ensikyo.com/index.xml</link>
+    <description>Recent content on Ensikyo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Nov 2017 23:36:29 +0200</lastBuildDate>
+    <atom:link href="https://www.ensikyo.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Evofarm</title>
+      <link>https://www.ensikyo.com/projects/evofarm/</link>
+      <pubDate>Thu, 30 Nov 2017 23:36:29 +0200</pubDate>
+      
+      <guid>https://www.ensikyo.com/projects/evofarm/</guid>
+      <description>&lt;p&gt;&lt;p&gt;
+    Evolufarm is a farming game started on Friday 1st December 2017.
+&lt;/p&gt;
+&lt;p&gt;
+    Your grandfather died few days ago, he left you a farm and debts as an inheritance.
+&lt;/p&gt;
+&lt;p&gt;
+    You have work and sold recolts to repay debts.
+&lt;/p&gt;
+&lt;p&gt;
+    Get plants, get tools, get machines.
+&lt;/p&gt;
+&lt;p&gt;
+    Evolve your plants, upgrade your tools, upgrade your machines.
+&lt;/p&gt;
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.ensikyo.com/blog/welcome/</link>
+      <pubDate>Thu, 30 Nov 2017 21:48:54 +0100</pubDate>
+      
+      <guid>https://www.ensikyo.com/blog/welcome/</guid>
+      <description>&lt;div class=&#34;center&#34;&gt;
+        &lt;img class=&#34;responsive-img&#34; src=&#34;../../images/blog/ensikyo.png&#34; alt=&#34;Logo of Ensikyo.com&#34;&gt;
+    &lt;/div&gt;
+&lt;div&gt;
+&lt;p&gt;
+Hello everyone and welcome!
+&lt;/p&gt;
+&lt;p&gt;I&#39;m Ensikyo, an independent developer and I&#39;m interested in making apps and video games.&lt;/p&gt;
+&lt;p&gt;These are the reasons why I created this website:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li class=&#34;valign-center&#34;&gt;&lt;i class=&#34;material-icons&#34;&gt;chevron_right&lt;/i&gt;
+        Sharing my projects with you, because I think sharing is the key to success. This website and social media allow you to share your opinion, your feedback and your support. Thanks to you I can evolve, I can progress and make better games for you.
+    &lt;/li&gt;
+    &lt;br/&gt;
+    &lt;br/&gt;
+    &lt;li class=&#34;valign-center&#34;&gt;&lt;i class=&#34;material-icons&#34;&gt;chevron_right&lt;/i&gt;
+        Writing things down. It&#39;s a good way to organize and plan my work.
+    &lt;/li&gt;
+    &lt;br/&gt;
+    &lt;br/&gt;
+    &lt;li class=&#34;valign-center&#34;&gt;&lt;i class=&#34;material-icons&#34;&gt;chevron_right&lt;/i&gt;
+        Keeping motivation by keeping track of things already done and by keeping a pace. Each week, I will write an article about games in development showing you the progress and asking your opinions about next changes.
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I hope we will make great things together.&lt;/p&gt;
+&lt;p&gt;Thanks for reading.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://www.ensikyo.com/about/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.ensikyo.com/about/</guid>
+      <description>&lt;p&gt;&lt;h1 class=&#34;hide&#34;&gt;About&lt;/h1&gt;
+&lt;h2&gt;Leave your mark in my projects&lt;/h2&gt;
+&lt;p&gt;On this website you can leave your mark in games I&amp;rsquo;m currently making and give feedback on my completed projects, propose improvements, ideas and give your opinion about game design&lt;/p&gt;
+&lt;p&gt;During development processes, I will regularly ask you via polls your preferences between several options or let you express yourself about. If you don&amp;rsquo;t want to participate: no problem. I understand people who simply want to see the progress of projects they are interested in and update logs.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;Who am I ?&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m Ensikyo, an independent french developer. I like making apps and games. I like programming for the creative abilities it grants. I&amp;rsquo;m not good at drawing, that&amp;rsquo;s why my first games will have simple graphics but I&amp;rsquo;m practicing and I&amp;rsquo;m making progress. Feel free to ask any question you have.&lt;/p&gt;
+&lt;div class=&#34;center-align&#34;&gt;&lt;a href=&#34;./contact&#34; class=&#34;teal-text valign-center&#34;&gt;&lt;i class=&#34;material-icons&#34;&gt;sentiment_very_satisfied&lt;/i&gt;  Click to say hello  &lt;i class=&#34;material-icons&#34;&gt;sentiment_very_satisfied&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://www.ensikyo.com/contact/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.ensikyo.com/contact/</guid>
+      <description>&lt;p&gt;&lt;h1 class=&#34;hide&#34;&gt;Contact&lt;/h1&gt;
+&lt;p&gt;Do you want to share an idea? Give feedback? Are you encountering a bug or an issue? Have you a business proposal? Do you want to say hello?&lt;/p&gt;
+&lt;p&gt;You can use the form below or contact me on social media.&lt;/p&gt;
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe src=&#34;https://docs.google.com/forms/d/e/1FAIpQLSc3ex7ebk1UmiKBfXDwI2knYhdeVWdJuNpL_wxJ-KcB4uVa-A/viewform?embedded=true&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34;&gt;Loading&amp;hellip;&lt;/iframe&gt;
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Support</title>
+      <link>https://www.ensikyo.com/support/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.ensikyo.com/support/</guid>
+      <description>&lt;p&gt;&lt;h1 class=&#34;hide&#34;&gt;Support&lt;/h1&gt;
+&lt;p&gt;The most efficient way to help me is by participating and by sharing articles and projects you like. If you know people interested in video games, please do share.&lt;/p&gt;
+&lt;p&gt;I also accept any voluntary help: especially translations and graphical improvements.&lt;/p&gt;
+&lt;p&gt;I hope together we can make great games we both enjoy !&lt;/p&gt;
+&lt;p&gt;Thank you for your support. &amp;#x2764;&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

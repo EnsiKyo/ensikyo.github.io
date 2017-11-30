@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Ensikyo</title>
+    <link>https://www.ensikyo.com/projects/index.xml</link>
+    <description>Recent content in Projects on Ensikyo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Nov 2017 23:36:29 +0200</lastBuildDate>
+    <atom:link href="https://www.ensikyo.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Evofarm</title>
+      <link>https://www.ensikyo.com/projects/evofarm/</link>
+      <pubDate>Thu, 30 Nov 2017 23:36:29 +0200</pubDate>
+      
+      <guid>https://www.ensikyo.com/projects/evofarm/</guid>
+      <description>&lt;p&gt;&lt;p&gt;
+    Evolufarm is a farming game started on Friday 1st December 2017.
+&lt;/p&gt;
+&lt;p&gt;
+    Your grandfather died few days ago, he left you a farm and debts as an inheritance.
+&lt;/p&gt;
+&lt;p&gt;
+    You have work and sold recolts to repay debts.
+&lt;/p&gt;
+&lt;p&gt;
+    Get plants, get tools, get machines.
+&lt;/p&gt;
+&lt;p&gt;
+    Evolve your plants, upgrade your tools, upgrade your machines.
+&lt;/p&gt;
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

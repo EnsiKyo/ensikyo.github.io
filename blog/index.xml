@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Ensikyo</title>
+    <link>https://www.ensikyo.com/blog/index.xml</link>
+    <description>Recent content in Blog on Ensikyo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Nov 2017 21:48:54 +0100</lastBuildDate>
+    <atom:link href="https://www.ensikyo.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>https://www.ensikyo.com/blog/welcome/</link>
+      <pubDate>Thu, 30 Nov 2017 21:48:54 +0100</pubDate>
+      
+      <guid>https://www.ensikyo.com/blog/welcome/</guid>
+      <description>&lt;div class=&#34;center&#34;&gt;
+        &lt;img class=&#34;responsive-img&#34; src=&#34;../../images/blog/ensikyo.png&#34; alt=&#34;Logo of Ensikyo.com&#34;&gt;
+    &lt;/div&gt;
+&lt;div&gt;
+&lt;p&gt;
+Hello everyone and welcome!
+&lt;/p&gt;
+&lt;p&gt;I&#39;m Ensikyo, an independent developer and I&#39;m interested in making apps and video games.&lt;/p&gt;
+&lt;p&gt;These are the reasons why I created this website:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li class=&#34;valign-center&#34;&gt;&lt;i class=&#34;material-icons&#34;&gt;chevron_right&lt;/i&gt;
+        Sharing my projects with you, because I think sharing is the key to success. This website and social media allow you to share your opinion, your feedback and your support. Thanks to you I can evolve, I can progress and make better games for you.
+    &lt;/li&gt;
+    &lt;br/&gt;
+    &lt;br/&gt;
+    &lt;li class=&#34;valign-center&#34;&gt;&lt;i class=&#34;material-icons&#34;&gt;chevron_right&lt;/i&gt;
+        Writing things down. It&#39;s a good way to organize and plan my work.
+    &lt;/li&gt;
+    &lt;br/&gt;
+    &lt;br/&gt;
+    &lt;li class=&#34;valign-center&#34;&gt;&lt;i class=&#34;material-icons&#34;&gt;chevron_right&lt;/i&gt;
+        Keeping motivation by keeping track of things already done and by keeping a pace. Each week, I will write an article about games in development showing you the progress and asking your opinions about next changes.
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I hope we will make great things together.&lt;/p&gt;
+&lt;p&gt;Thanks for reading.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
